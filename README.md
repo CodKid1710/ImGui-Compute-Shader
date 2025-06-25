@@ -13,7 +13,7 @@ cmake ..
 ```
 
 Tested on Linux in Visual Studio Code.
-Or just run ./build.sh and ./run.sh
+Or just run ```./build.sh``` and ```./run.sh```
 
 ## Third-Party Dependencies
 Uses the following third-party dependencies:
