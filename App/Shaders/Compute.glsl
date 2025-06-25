@@ -28,5 +28,5 @@ void main()
     O = tanh(O*O/2e5);
 
     vec4 color = vec4(normalizedCoord, 0.0, 1.0);
-    imageStore(outputImage, pixelCoord, O);
+    imageStore(outputImage, pixelCoord, color);
 }
