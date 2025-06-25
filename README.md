@@ -12,7 +12,8 @@ cd build
 cmake ..
 ```
 
-Tested on Windows 11 using Visual Studio 2022, more testing to follow.
+Tested on Linux in Visual Studio Code.
+Or just run ./build.sh and ./run.sh
 
 ## Third-Party Dependencies
 Uses the following third-party dependencies:
